@@ -1,0 +1,15 @@
+C:\Users\rinat\OneDrive\Рабочий стол\Проекты Си-Шарп\Seminars\Seminar2\Task15\Task15\obj\Debug\net7.0\Task15.csproj.AssemblyReference.cache
+C:\Users\rinat\OneDrive\Рабочий стол\Проекты Си-Шарп\Seminars\Seminar2\Task15\Task15\obj\Debug\net7.0\Task15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rinat\OneDrive\Рабочий стол\Проекты Си-Шарп\Seminars\Seminar2\Task15\Task15\obj\Debug\net7.0\Task15.AssemblyInfoInputs.cache
+C:\Users\rinat\OneDrive\Рабочий стол\Проекты Си-Шарп\Seminars\Seminar2\Task15\Task15\obj\Debug\net7.0\Task15.AssemblyInfo.cs
+C:\Users\rinat\OneDrive\Рабочий стол\Проекты Си-Шарп\Seminars\Seminar2\Task15\Task15\obj\Debug\net7.0\Task15.csproj.CoreCompileInputs.cache
+C:\Users\rinat\OneDrive\Рабочий стол\Проекты Си-Шарп\Seminars\Seminar2\Task15\Task15\bin\Debug\net7.0\Task15.exe
+C:\Users\rinat\OneDrive\Рабочий стол\Проекты Си-Шарп\Seminars\Seminar2\Task15\Task15\bin\Debug\net7.0\Task15.deps.json
+C:\Users\rinat\OneDrive\Рабочий стол\Проекты Си-Шарп\Seminars\Seminar2\Task15\Task15\bin\Debug\net7.0\Task15.runtimeconfig.json
+C:\Users\rinat\OneDrive\Рабочий стол\Проекты Си-Шарп\Seminars\Seminar2\Task15\Task15\bin\Debug\net7.0\Task15.dll
+C:\Users\rinat\OneDrive\Рабочий стол\Проекты Си-Шарп\Seminars\Seminar2\Task15\Task15\bin\Debug\net7.0\Task15.pdb
+C:\Users\rinat\OneDrive\Рабочий стол\Проекты Си-Шарп\Seminars\Seminar2\Task15\Task15\obj\Debug\net7.0\Task15.dll
+C:\Users\rinat\OneDrive\Рабочий стол\Проекты Си-Шарп\Seminars\Seminar2\Task15\Task15\obj\Debug\net7.0\refint\Task15.dll
+C:\Users\rinat\OneDrive\Рабочий стол\Проекты Си-Шарп\Seminars\Seminar2\Task15\Task15\obj\Debug\net7.0\Task15.pdb
+C:\Users\rinat\OneDrive\Рабочий стол\Проекты Си-Шарп\Seminars\Seminar2\Task15\Task15\obj\Debug\net7.0\Task15.genruntimeconfig.cache
+C:\Users\rinat\OneDrive\Рабочий стол\Проекты Си-Шарп\Seminars\Seminar2\Task15\Task15\obj\Debug\net7.0\ref\Task15.dll
